@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "RockPaperScissorsDB", "RockPaperScissorsDB\RockPaperScissorsDB.sqlproj", "{24D79EE7-D587-4459-A5EB-70BD3D2541DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24D79EE7-D587-4459-A5EB-70BD3D2541DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24D79EE7-D587-4459-A5EB-70BD3D2541DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24D79EE7-D587-4459-A5EB-70BD3D2541DC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{24D79EE7-D587-4459-A5EB-70BD3D2541DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24D79EE7-D587-4459-A5EB-70BD3D2541DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24D79EE7-D587-4459-A5EB-70BD3D2541DC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11F3F82D-3754-4E59-B614-545CC8738CCC}
+	EndGlobalSection
+EndGlobal
